@@ -173,6 +173,8 @@
 		41E2DB151B0641C80023FD9E /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftMigration = 0700;
+				LastSwiftUpdateCheck = 0700;
 				LastUpgradeCheck = 0630;
 				ORGANIZATIONNAME = "Kyohei Yamaguchi";
 				TargetAttributes = {
